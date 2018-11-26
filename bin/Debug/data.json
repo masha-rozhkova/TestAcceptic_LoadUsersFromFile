@@ -1,0 +1,16 @@
+{
+	"Users": [
+		{
+			"Name": "Jhon",
+			"Age": 55,
+			"Weight": 88.65,
+			"EyeColor": "Brown"
+		},
+		{
+			"Name": "Sam",
+			"Age": 30,
+			"Weight": 75.5,
+			"EyeColor": "Blue"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+Obj
+obj
+*.suo
+~*.*
+*.user
+packages
+.nuget
+.vs
